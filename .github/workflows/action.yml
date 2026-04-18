@@ -1,4 +1,4 @@
-name: CI
+name: Zizmor test of the workflows
 
 on:
   push:
